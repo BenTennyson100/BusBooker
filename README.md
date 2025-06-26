@@ -1,4 +1,4 @@
-# 🚀 Project Bolt
+# 🚀 BusBooker
 
 A modern, blazing-fast frontend web application built with **React**, **Vite**, **Tailwind CSS**, and **TypeScript**.
 
@@ -33,8 +33,8 @@ A modern, blazing-fast frontend web application built with **React**, **Vite**, 
 ## 🚀 Getting Started
 ```
 # Clone the repository
-git clone https://github.com/your-username/project-bolt.git
-cd project-bolt
+git clone https://github.com/your-username/BusBooker.git
+cd BusBooker
 
 # Install dependencies
 npm install
